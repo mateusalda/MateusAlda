@@ -54,6 +54,6 @@ LinkedIn
 </p>
 
 <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mateusalda&show_icons=true&locale=en&theme=chartreuse-dark" alt="mateusalda" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=mateusalda&show_icons=true&locale=en&theme=chartreuse-dark" alt="mateusalda" />
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=mateusalda&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="mateusalda" />
 </p>
