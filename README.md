@@ -1,8 +1,5 @@
 <img align="center" src="./banner_mateus_alda.png" alt="mateusalda" />
 
-<h1 align="center">Hi 👋, I'm Mateus Aldá</h1>
-<h3 align="center">A passionate developer from Brazil</h3>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mateusalda" target="blank">
@@ -61,6 +58,6 @@ LinkedIn
   </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mateusalda&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="mateusalda" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mateusalda&show_icons=true&locale=en&theme=chartreuse-dark" alt="mateusalda" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mateusalda&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="mateusalda" /></p>
