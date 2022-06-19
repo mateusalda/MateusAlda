@@ -1,3 +1,5 @@
+<img align="center" src="./banner_mateus_alda.png" alt="mateusalda" />
+
 <h1 align="center">Hi 👋, I'm Mateus Aldá</h1>
 <h3 align="center">A passionate developer from Brazil</h3>
 
